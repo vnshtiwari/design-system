@@ -20,5 +20,9 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "@mui/icons-material": "^7.0.2",
+    "design-system": "file:"
+  }
 }
